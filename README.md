@@ -1,6 +1,13 @@
 <div align="center">
   <h1>Bug-fixing-01</h1>
 </div
+
+<br>
+
+<p>
+  The first challenge of the explorer program. The purpose of this was to fix bugs in the HTML file.
+</p>
+
 <br>
 
 <div align="center">
